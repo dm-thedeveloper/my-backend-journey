@@ -1,0 +1,15 @@
+*{
+    color: green;
+}
+.cards{
+    border: 2px solid green;
+    width: 30%;
+    padding: 10px;
+    /* display: ; */
+    background-color: rgb(0, 128, 0,.2);
+margin: 10px;
+}
+.cards p{
+    color: rgb(0, 0, 0,.5);
+}
+
